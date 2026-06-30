@@ -1,4 +1,5 @@
 
+
 let customerName : string= "John Doe";
 let creditScore : number = 720;
 let income :number= 55000.0;
@@ -37,6 +38,7 @@ console.log(` ${customerName} credit score is below 650, the loan is denied.`);
             console.log("Loan Denied: Income is less than required.");
         }
     
+<<<<<<< HEAD
     
     
 
@@ -44,3 +46,5 @@ console.log(` ${customerName} credit score is below 650, the loan is denied.`);
 
 
     
+=======
+>>>>>>> 313294f0cb54c48e3fffcaa928d7e75aa1d95c8d
